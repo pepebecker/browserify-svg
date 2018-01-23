@@ -1,5 +1,7 @@
 # Browserify SVG
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pepebecker/browserify-svg.svg)](https://greenkeeper.io/)
+
 [![dependency status](https://img.shields.io/david/pepebecker/browserify-svg.svg)](https://david-dm.org/pepebecker/browserify-svg)
 [![dev dependency status](https://img.shields.io/david/dev/pepebecker/browserify-svg.svg)](https://david-dm.org/pepebecker/browserify-svg#info=devDependencies)
 [![MIT-licensed](https://img.shields.io/github/license/pepebecker/browserify-svg.svg)](https://opensource.org/licenses/MIT)
